@@ -10,6 +10,8 @@ Sort media into clean folder structures and remove short videos safely — built
 </div>
 
 ---
+![Preview](./Preview/MediaFlow.png)
+
 
 ## Features
 
